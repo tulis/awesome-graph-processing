@@ -32,6 +32,7 @@ A collection of awesome papers about graph processing.
 - **GridGraph** - `GridGraph: Large-Scale Graph Processing on a Single Machine Using 2-Level Hierarchical Partitioning` (USENIX ATC'15). [[paper]](https://www.usenix.org/system/files/conference/atc15/atc15-paper-zhu.pdf), [[code]](https://github.com/thu-pacman/GridGraph)
 - **VENUS** - `VENUS: Vertex-Centric Streamlined Graph Computation on a Single PC` (ICDE'15). [[paper]](https://www.cse.cuhk.edu.hk/~cslui/PUBLICATION/ICDE15_Venus.pdf)
 - **FlashGraph** - `FlashGraph: Processing Billion-Node Graphs on an Array of Commodity SSDs` (FAST'15). [[paper]](https://www.usenix.org/system/files/conference/fast15/fast15-paper-zheng.pdf), [[code]](https://github.com/Smerity/FlashGraph)
+- **Lumos** - [[`LUMOS: Dependency-Driven Disk-based Graph Processing`]](]](https://www.usenix.org/conference/atc19/presentation/vora)) (USENIX ATC'19). [[paper]](https://www.usenix.org/system/files/atc19-vora.pdf), [[code]](https://github.com/pdclab/lumos), [[video1]](https://youtu.be/1tuAl7l-FBM), [[video2]](https://youtu.be/v-WwRhGKZ2o), [[slide1]](https://www.usenix.org/sites/default/files/conference/protected-files/atc19_slides_lt_vora_rev.pdf), [[slide2]](https://www.usenix.org/sites/default/files/conference/protected-files/atc19_slides_vora.pdf)
 
 ### Distributed & Storage
 - **Chaos** - `Chaos: Scale-out Graph Processing from Secondary Storage` (SOSP'15). [[paper]](https://www.cl.cam.ac.uk/~ey204/teaching/ACS/R244_2017_2018/papers/roy_sosp_2015.pdf), [[code]](https://github.com/epfl-labos/chaos)
